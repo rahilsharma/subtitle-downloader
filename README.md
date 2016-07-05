@@ -20,7 +20,7 @@ If you have python in your path, simply drag and drop files and folders you wish
 * Right click the movie file (not the movie folder). You can also select multiple files.
 and click sendto -> Subtitle.cmd
 
-* If you want to download subtitles for all movies in a folder, you can use a folder as parameter to subtitle-downloader.py.
+* If you want to downlad subtitles for all movies in a folder, you can use a folder as parameter to subtitle-downloader.py.
 
 #### Mac:
 * Install python and make sure it is in your path
